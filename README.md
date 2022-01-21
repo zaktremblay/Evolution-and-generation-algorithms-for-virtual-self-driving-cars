@@ -1,5 +1,5 @@
 # Evolution-and-generation-algorithms-for-virtual-self-driving-cars
-This porject was used as a final project of computer science studies. The whole project is coded in Java and JavaFX. 
+This project was used as a final project of computer science studies. The whole project is coded in Java and JavaFX. 
 
 The point of this whole project is to create an algorithm that will be able to find the fastest paths for race car with somewhat accurate physics in two dimensions.
 
