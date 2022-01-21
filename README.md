@@ -17,6 +17,6 @@ Through this class, we also had to create a UML diagram. Our project's plan was 
 
 To do list:
 
-- complete regular demo
+- Complete regular demo
 - Implement back the lost Line.java file
 - Add comments
