@@ -13,4 +13,10 @@ Through this class, we also had to create a UML diagram. Our project's plan was 
 
 ![image](UML_Diagram.jpg)
 
-I am hoping to be able to incorporate this design into my demo of this project.
+---
+
+To do list:
+
+- complete regular demo
+- Implement back the lost Line.java file
+- Add comments
