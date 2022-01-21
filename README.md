@@ -11,6 +11,6 @@ However, recently I have started to update my Github profile, and I am currently
 
 Through this class, we also had to create a UML diagram. Our project's plan was to incorporate this following design into code.
 
-![image](UML_for_final_project.jpg)
+![image](UML.jpg)
 
 I am hoping to be able to incorporate this design into my demo of this project.
